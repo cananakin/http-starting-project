@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Route, NavLink, Switch, Redirect } from 'react-router-dom';
 
 import Posts from '../Posts/Posts';
-import NewPost from '../NewPost/NewPost';
+//import NewPost from '../NewPost/NewPost';
 import asyncComponent from '../../hoc/asyncComponent';
 
 import './Blog.css';
